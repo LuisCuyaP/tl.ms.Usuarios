@@ -1,8 +1,10 @@
 {
   "version": 2,
-  "dgSpecHash": "oEEjfAhsQUw=",
+  "dgSpecHash": "RJMwQVhdBgQ=",
   "success": true,
   "projectFilePath": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj",
-  "expectedPackageFiles": [],
+  "expectedPackageFiles": [
+    "C:\\Users\\luis.cuya\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512"
+  ],
   "logs": []
 }
