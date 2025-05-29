@@ -1,4 +1,5 @@
 ﻿using Usuarios.Domain.Abstractions;
+using Usuarios.Domain.Shared;
 
 namespace Usuarios.Domain.Usuarios;
 public class Usuario : Entity
@@ -9,11 +10,11 @@ public class Usuario : Entity
         string apellidoPaterno,
         string apellidoMaterno,
         Password password,
-        string nombreUsuario,
+        NombreUsuario nombreUsuario,
         DateTime fechaNacimiento,
         CorreoElectronico correoElectronico,
         Direccion direccion,
-        int estado,
+        Estados estado,
         DateTime fechaUltimoCambio
         ) : base(id)
     {
@@ -33,11 +34,11 @@ public class Usuario : Entity
     public string ApellidoPaterno { get; private set; }
     public string ApellidoMaterno { get; private set; }
     public Password Password { get; private set; }
-    public string NombreUsuario { get; private set; }
+    public NombreUsuario NombreUsuario { get; private set; }
     public DateTime FechaNacimiento { get; private set; }
     public CorreoElectronico CorreoElectronico { get; private set; }
     public Direccion? Direccion { get; private set; }
-    public int Estado { get; private set; }
+    public Estados Estado { get; private set; }
     public DateTime FechaUltimoCambio { get; private set; }
 
     public static Usuario Create(
@@ -46,11 +47,11 @@ public class Usuario : Entity
         string apellidoPaterno,
         string apellidoMaterno,
         Password password,
-        string nombreUsuario,
+        NombreUsuario nombreUsuario,
         DateTime fechaNacimiento,
         CorreoElectronico correoElectronico,
         Direccion? direccion,
-        int estado,
+        Estados estado,
         DateTime FechaUltimoCambio
         )
     {
