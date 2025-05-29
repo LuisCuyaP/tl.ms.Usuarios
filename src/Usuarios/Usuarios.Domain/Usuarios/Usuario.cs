@@ -11,7 +11,7 @@ public class Usuario : Entity
         string password,
         string nombreUsuario,
         DateTime fechaNacimiento,
-        string correoElectronico,
+        CorreoElectronico correoElectronico,
         Direccion direccion,
         int estado,
         DateTime fechaUltimoCambio
@@ -35,7 +35,7 @@ public class Usuario : Entity
     public string Password { get; private set; }
     public string NombreUsuario { get; private set; }
     public DateTime FechaNacimiento { get; private set; }
-    public string CorreoElectronico { get; private set; }
+    public CorreoElectronico CorreoElectronico { get; private set; }
     public Direccion? Direccion { get; private set; }
     public int Estado { get; private set; }
     public DateTime FechaUltimoCambio { get; private set; }
@@ -48,7 +48,7 @@ public class Usuario : Entity
         string password,
         string nombreUsuario,
         DateTime fechaNacimiento,
-        string correoElectronico,
+        CorreoElectronico correoElectronico,
         Direccion? direccion,
         int estado,
         DateTime FechaUltimoCambio
