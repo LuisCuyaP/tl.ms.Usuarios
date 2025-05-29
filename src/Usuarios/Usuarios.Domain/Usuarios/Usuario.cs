@@ -1,11 +1,12 @@
 ﻿using Usuarios.Domain.Abstractions;
+using Usuarios.Domain.Roles;
 using Usuarios.Domain.Shared;
 
 namespace Usuarios.Domain.Usuarios;
 public class Usuario : Entity
 {
     public readonly List<DobleFactorAutenticacion> autenticacions = new();
-    private Usuario(Guid id, string nombresPersona, string apellidoPaterno, string apellidoMaterno, Password password, NombreUsuario nombreUsuario, DateTime fechaNacimiento, CorreoElectronico correoElectronico, Direccion direccion, Estados estado, DateTime fechaUltimoCambio) : base(id)
+    private Usuario(Guid id, string nombresPersona, string apellidoPaterno, string apellidoMaterno, Password password, NombreUsuario nombreUsuario, DateTime fechaNacimiento, CorreoElectronico correoElectronico, Direccion direccion, Estados estado, DateTime fechaUltimoCambio, Guid rolId) : base(id)
     {
         NombresPersona = nombresPersona;
         ApellidoPaterno = apellidoPaterno;
@@ -17,6 +18,7 @@ public class Usuario : Entity
         Direccion = direccion;
         Estado = estado;
         FechaUltimoCambio = fechaUltimoCambio;
+        RolId = rolId;
     }
 
     public string NombresPersona { get; private set; }
@@ -30,9 +32,13 @@ public class Usuario : Entity
     public Estados Estado { get; private set; }
     public DateTime FechaUltimoCambio { get; private set; }
     public IReadOnlyList<DobleFactorAutenticacion> dobleFactorAutenticacions => autenticacions.AsReadOnly();
+    public Rol? Rol { get; private set; }
+    public Guid RolId { get; private set; }
 
-    public static Usuario Create(Guid id, string nombresPersona, string apellidoPaterno, string apellidoMaterno, Password password, NombreUsuario nombreUsuario, DateTime fechaNacimiento, CorreoElectronico correoElectronico, Direccion? direccion, DateTime FechaUltimoCambio)
+    public static Result<Usuario> Create(string nombresPersona, string apellidoPaterno, string apellidoMaterno, Password password, DateTime fechaNacimiento, CorreoElectronico correoElectronico, Direccion? direccion, DateTime fechaUltimoCambio, Guid rolId, NombreUsuarioService nombreUsuarioService)
     {
-        return new Usuario(id, nombresPersona, apellidoPaterno, apellidoMaterno, password, nombreUsuario, fechaNacimiento, correoElectronico, direccion, Estados.Activo, FechaUltimoCambio);
+        var nombreUsuario = nombreUsuarioService.GenerarNombreUsuario(nombresPersona, apellidoPaterno);
+        var usuario = new Usuario(Guid.NewGuid(), nombresPersona, apellidoPaterno, apellidoMaterno, password, nombreUsuario.Value, fechaNacimiento, correoElectronico, direccion, Estados.Activo, fechaUltimoCambio, rolId);
+        return Result.Success(usuario);
     }
 }
