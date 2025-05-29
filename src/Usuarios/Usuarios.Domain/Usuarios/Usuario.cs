@@ -8,7 +8,7 @@ public class Usuario : Entity
         string nombresPersona,
         string apellidoPaterno,
         string apellidoMaterno,
-        string password,
+        Password password,
         string nombreUsuario,
         DateTime fechaNacimiento,
         CorreoElectronico correoElectronico,
@@ -32,7 +32,7 @@ public class Usuario : Entity
     public string NombresPersona { get; private set; }
     public string ApellidoPaterno { get; private set; }
     public string ApellidoMaterno { get; private set; }
-    public string Password { get; private set; }
+    public Password Password { get; private set; }
     public string NombreUsuario { get; private set; }
     public DateTime FechaNacimiento { get; private set; }
     public CorreoElectronico CorreoElectronico { get; private set; }
@@ -45,7 +45,7 @@ public class Usuario : Entity
         string nombresPersona,
         string apellidoPaterno,
         string apellidoMaterno,
-        string password,
+        Password password,
         string nombreUsuario,
         DateTime fechaNacimiento,
         CorreoElectronico correoElectronico,
