@@ -13,7 +13,7 @@ public abstract class Entity
         Id = id;
     }
     public Guid Id { get; set; }
-    public void RaiseEvent(IDomainEvent domainEvent)
+    public void RaiseDomainEvent(IDomainEvent domainEvent)
     {
         if (domainEvent == null)
         {

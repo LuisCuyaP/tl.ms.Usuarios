@@ -1,4 +1,5 @@
 ﻿using Usuarios.Domain.Abstractions;
+using Usuarios.Domain.Events;
 using Usuarios.Domain.Roles;
 using Usuarios.Domain.Shared;
 
@@ -39,6 +40,7 @@ public class Usuario : Entity
     {
         var nombreUsuario = nombreUsuarioService.GenerarNombreUsuario(nombresPersona, apellidoPaterno);
         var usuario = new Usuario(Guid.NewGuid(), nombresPersona, apellidoPaterno, apellidoMaterno, password, nombreUsuario.Value, fechaNacimiento, correoElectronico, direccion, Estados.Activo, fechaUltimoCambio, rolId);
+        usuario.RaiseDomainEvent(new UserCreateDomainEvent(usuario.Id));
         return Result.Success(usuario);
     }
 }
