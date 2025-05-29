@@ -4,6 +4,14 @@ namespace Usuarios.Domain.Abstractions;
 public abstract class Entity
 {
     private readonly List<IDomainEvent> events = new();
+    protected Entity(Guid id)
+    {
+        if (id == Guid.Empty)
+        {
+            throw new ArgumentException("Id cannot be empty.", nameof(id));
+        }
+        Id = id;
+    }
     public Guid Id { get; set; }
     public void RaiseEvent(IDomainEvent domainEvent)
     {
