@@ -4,19 +4,8 @@ using Usuarios.Domain.Shared;
 namespace Usuarios.Domain.Usuarios;
 public class Usuario : Entity
 {
-    private Usuario(
-        Guid id,
-        string nombresPersona,
-        string apellidoPaterno,
-        string apellidoMaterno,
-        Password password,
-        NombreUsuario nombreUsuario,
-        DateTime fechaNacimiento,
-        CorreoElectronico correoElectronico,
-        Direccion direccion,
-        Estados estado,
-        DateTime fechaUltimoCambio
-        ) : base(id)
+    public readonly List<DobleFactorAutenticacion> autenticacions = new();
+    private Usuario(Guid id, string nombresPersona, string apellidoPaterno, string apellidoMaterno, Password password, NombreUsuario nombreUsuario, DateTime fechaNacimiento, CorreoElectronico correoElectronico, Direccion direccion, Estados estado, DateTime fechaUltimoCambio) : base(id)
     {
         NombresPersona = nombresPersona;
         ApellidoPaterno = apellidoPaterno;
@@ -40,34 +29,10 @@ public class Usuario : Entity
     public Direccion? Direccion { get; private set; }
     public Estados Estado { get; private set; }
     public DateTime FechaUltimoCambio { get; private set; }
+    public IReadOnlyList<DobleFactorAutenticacion> dobleFactorAutenticacions => autenticacions.AsReadOnly();
 
-    public static Usuario Create(
-        Guid id,
-        string nombresPersona,
-        string apellidoPaterno,
-        string apellidoMaterno,
-        Password password,
-        NombreUsuario nombreUsuario,
-        DateTime fechaNacimiento,
-        CorreoElectronico correoElectronico,
-        Direccion? direccion,
-        Estados estado,
-        DateTime FechaUltimoCambio
-        )
+    public static Usuario Create(Guid id, string nombresPersona, string apellidoPaterno, string apellidoMaterno, Password password, NombreUsuario nombreUsuario, DateTime fechaNacimiento, CorreoElectronico correoElectronico, Direccion? direccion, DateTime FechaUltimoCambio)
     {
-        return new Usuario(
-            id,
-            nombresPersona,
-            apellidoPaterno,
-            apellidoMaterno,
-            password,
-            nombreUsuario,
-            fechaNacimiento,
-            correoElectronico,
-            direccion,
-            estado,
-            FechaUltimoCambio
-        );
-
+        return new Usuario(id, nombresPersona, apellidoPaterno, apellidoMaterno, password, nombreUsuario, fechaNacimiento, correoElectronico, direccion, Estados.Activo, FechaUltimoCambio);
     }
 }
