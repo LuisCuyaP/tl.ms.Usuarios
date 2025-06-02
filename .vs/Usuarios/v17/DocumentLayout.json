@@ -3,6 +3,18 @@
   "WorkspaceRootPath": "C:\\Repositorios\\NetCloud\\Sesion02\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{AA70935D-5B07-4156-AE6A-58061C17E2A4}|src\\Usuarios\\Usuarios.Application\\Usuarios.Application.csproj|c:\\repositorios\\netcloud\\sesion02\\src\\usuarios\\usuarios.application\\usuarios\\crearusuario\\crearusuariocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA70935D-5B07-4156-AE6A-58061C17E2A4}|src\\Usuarios\\Usuarios.Application\\Usuarios.Application.csproj|solutionrelative:src\\usuarios\\usuarios.application\\usuarios\\crearusuario\\crearusuariocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|c:\\repositorios\\netcloud\\sesion02\\src\\usuarios\\usuarios.domain\\usuarios\\direccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|solutionrelative:src\\usuarios\\usuarios.domain\\usuarios\\direccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA70935D-5B07-4156-AE6A-58061C17E2A4}|src\\Usuarios\\Usuarios.Application\\Usuarios.Application.csproj|c:\\repositorios\\netcloud\\sesion02\\src\\usuarios\\usuarios.application\\usuarios\\getusuario\\getusuarioqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA70935D-5B07-4156-AE6A-58061C17E2A4}|src\\Usuarios\\Usuarios.Application\\Usuarios.Application.csproj|solutionrelative:src\\usuarios\\usuarios.application\\usuarios\\getusuario\\getusuarioqueryhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{AA70935D-5B07-4156-AE6A-58061C17E2A4}|src\\Usuarios\\Usuarios.Application\\Usuarios.Application.csproj|c:\\repositorios\\netcloud\\sesion02\\src\\usuarios\\usuarios.application\\usuarios\\getusuario\\getusuarioquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA70935D-5B07-4156-AE6A-58061C17E2A4}|src\\Usuarios\\Usuarios.Application\\Usuarios.Application.csproj|solutionrelative:src\\usuarios\\usuarios.application\\usuarios\\getusuario\\getusuarioquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -13,10 +25,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{AA70935D-5B07-4156-AE6A-58061C17E2A4}|src\\Usuarios\\Usuarios.Application\\Usuarios.Application.csproj|c:\\repositorios\\netcloud\\sesion02\\src\\usuarios\\usuarios.application\\usuarios\\getusuario\\usuarioresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{AA70935D-5B07-4156-AE6A-58061C17E2A4}|src\\Usuarios\\Usuarios.Application\\Usuarios.Application.csproj|solutionrelative:src\\usuarios\\usuarios.application\\usuarios\\getusuario\\usuarioresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{AA70935D-5B07-4156-AE6A-58061C17E2A4}|src\\Usuarios\\Usuarios.Application\\Usuarios.Application.csproj|c:\\repositorios\\netcloud\\sesion02\\src\\usuarios\\usuarios.application\\usuarios\\crearusuario\\crearusuariocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA70935D-5B07-4156-AE6A-58061C17E2A4}|src\\Usuarios\\Usuarios.Application\\Usuarios.Application.csproj|solutionrelative:src\\usuarios\\usuarios.application\\usuarios\\crearusuario\\crearusuariocommandhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|c:\\repositorios\\netcloud\\sesion02\\src\\usuarios\\usuarios.domain\\usuarios\\nombreusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -33,10 +41,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|c:\\repositorios\\netcloud\\sesion02\\src\\usuarios\\usuarios.domain\\usuarios\\correoelectronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|solutionrelative:src\\usuarios\\usuarios.domain\\usuarios\\correoelectronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|c:\\repositorios\\netcloud\\sesion02\\src\\usuarios\\usuarios.domain\\usuarios\\direccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|solutionrelative:src\\usuarios\\usuarios.domain\\usuarios\\direccion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|c:\\repositorios\\netcloud\\sesion02\\src\\usuarios\\usuarios.domain\\abstractions\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -130,7 +134,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 245,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 7,
           "Children": [
             {
               "$type": "Bookmark",
@@ -143,6 +147,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
+              "Title": "GetUsuarioQueryHandler.cs",
+              "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Application\\Usuarios\\GetUsuario\\GetUsuarioQueryHandler.cs",
+              "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Application\\Usuarios\\GetUsuario\\GetUsuarioQueryHandler.cs",
+              "ToolTip": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Application\\Usuarios\\GetUsuario\\GetUsuarioQueryHandler.cs",
+              "RelativeToolTip": "src\\Usuarios\\Usuarios.Application\\Usuarios\\GetUsuario\\GetUsuarioQueryHandler.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAuwCUAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T19:06:49.251Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "UsuarioResponse.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Application\\Usuarios\\GetUsuario\\UsuarioResponse.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Application\\Usuarios\\GetUsuario\\UsuarioResponse.cs",
@@ -155,7 +172,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 3,
               "Title": "GetUsuarioQuery.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Application\\Usuarios\\GetUsuario\\GetUsuarioQuery.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Application\\Usuarios\\GetUsuario\\GetUsuarioQuery.cs",
@@ -168,7 +185,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "IUnitOfWork.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Abstractions\\IUnitOfWork.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Domain\\Abstractions\\IUnitOfWork.cs",
@@ -181,7 +198,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "IDateTimeProvider.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Application\\Abstractions\\Time\\IDateTimeProvider.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Application\\Abstractions\\Time\\IDateTimeProvider.cs",
@@ -194,20 +211,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "CrearUsuarioCommandHandler.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Application\\Usuarios\\CrearUsuario\\CrearUsuarioCommandHandler.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Application\\Usuarios\\CrearUsuario\\CrearUsuarioCommandHandler.cs",
               "ToolTip": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Application\\Usuarios\\CrearUsuario\\CrearUsuarioCommandHandler.cs",
               "RelativeToolTip": "src\\Usuarios\\Usuarios.Application\\Usuarios\\CrearUsuario\\CrearUsuarioCommandHandler.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAgwCMAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAQwCMAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-02T18:39:46.807Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "CrearUsuarioCommand.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Application\\Usuarios\\CrearUsuario\\CrearUsuarioCommand.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Application\\Usuarios\\CrearUsuario\\CrearUsuarioCommand.cs",
@@ -220,7 +237,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "ISqlConnectionFactory.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Application\\Abstractions\\Data\\ISqlConnectionFactory.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Application\\Abstractions\\Data\\ISqlConnectionFactory.cs",
@@ -233,7 +250,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "IQueryHandler.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Application\\Abstractions\\Messaging\\IQueryHandler.cs",
@@ -246,7 +263,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "IQuery.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Application\\Abstractions\\Messaging\\IQuery.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Application\\Abstractions\\Messaging\\IQuery.cs",
@@ -259,7 +276,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "ICommandHandler.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Application\\Abstractions\\Messaging\\ICommandHandler.cs",
@@ -272,7 +289,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "ICommand.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Application\\Abstractions\\Messaging\\ICommand.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Application\\Abstractions\\Messaging\\ICommand.cs",
@@ -285,7 +302,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "IRolRepository.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Roles\\IRolRepository.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Domain\\Roles\\IRolRepository.cs",
@@ -298,7 +315,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "RolErrores.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Roles\\RolErrores.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Domain\\Roles\\RolErrores.cs",
@@ -311,7 +328,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "IUsuarioRepository.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Usuarios\\IUsuarioRepository.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Domain\\Usuarios\\IUsuarioRepository.cs",
@@ -324,7 +341,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "UserCreateDomainEvent.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Events\\UserCreateDomainEvent.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Domain\\Events\\UserCreateDomainEvent.cs",
@@ -336,7 +353,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "Rol.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Roles\\Rol.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Domain\\Roles\\Rol.cs",
@@ -349,7 +366,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 8,
               "Title": "TipoDobleFactor.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Usuarios\\TipoDobleFactor.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Domain\\Usuarios\\TipoDobleFactor.cs",
@@ -362,7 +379,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "Estados.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Shared\\Estados.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Domain\\Shared\\Estados.cs",
@@ -374,7 +391,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "NombreUsuarioService.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Usuarios\\NombreUsuarioService.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Domain\\Usuarios\\NombreUsuarioService.cs",
@@ -387,7 +404,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Usuarios\\Usuario.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Domain\\Usuarios\\Usuario.cs",
@@ -399,7 +416,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "DobleFactorAutenticacion.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Usuarios\\DobleFactorAutenticacion.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Domain\\Usuarios\\DobleFactorAutenticacion.cs",
@@ -411,7 +428,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 6,
               "Title": "NombreUsuario.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Usuarios\\NombreUsuario.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Domain\\Usuarios\\NombreUsuario.cs",
@@ -424,20 +441,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 1,
               "Title": "Direccion.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Usuarios\\Direccion.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Domain\\Usuarios\\Direccion.cs",
               "ToolTip": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Usuarios\\Direccion.cs",
               "RelativeToolTip": "src\\Usuarios\\Usuarios.Domain\\Usuarios\\Direccion.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-29T16:19:06.47Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "Password.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Usuarios\\Password.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Domain\\Usuarios\\Password.cs",
@@ -449,7 +466,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "UsuarioErrores.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Usuarios\\UsuarioErrores.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Domain\\Usuarios\\UsuarioErrores.cs",
@@ -461,7 +478,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 9,
               "Title": "CorreoElectronico.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Usuarios\\CorreoElectronico.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Domain\\Usuarios\\CorreoElectronico.cs",
@@ -474,7 +491,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "Result.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Abstractions\\Result.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Domain\\Abstractions\\Result.cs",
@@ -486,7 +503,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "Error.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Abstractions\\Error.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Domain\\Abstractions\\Error.cs",
@@ -498,7 +515,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "IDomainEvent.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Abstractions\\IDomainEvent.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Domain\\Abstractions\\IDomainEvent.cs",
@@ -510,7 +527,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "Entity.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Abstractions\\Entity.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Domain\\Abstractions\\Entity.cs",
