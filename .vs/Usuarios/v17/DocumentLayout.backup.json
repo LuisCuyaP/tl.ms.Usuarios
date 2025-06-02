@@ -3,36 +3,52 @@
   "WorkspaceRootPath": "C:\\Repositorios\\NetCloud\\Sesion02\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|c:\\repositorios\\netcloud\\sesion02\\src\\usuarios\\usuarios.domain\\roles\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|solutionrelative:src\\usuarios\\usuarios.domain\\roles\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|c:\\repositorios\\netcloud\\sesion02\\src\\usuarios\\usuarios.domain\\abstractions\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|solutionrelative:src\\usuarios\\usuarios.domain\\abstractions\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|c:\\repositorios\\netcloud\\sesion02\\src\\usuarios\\usuarios.domain\\usuarios\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|solutionrelative:src\\usuarios\\usuarios.domain\\usuarios\\usuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|c:\\repositorios\\netcloud\\sesion02\\src\\usuarios\\usuarios.domain\\roles\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|solutionrelative:src\\usuarios\\usuarios.domain\\roles\\rol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|c:\\repositorios\\netcloud\\sesion02\\src\\usuarios\\usuarios.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|solutionrelative:src\\usuarios\\usuarios.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|c:\\repositorios\\netcloud\\sesion02\\src\\usuarios\\usuarios.domain\\abstractions\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|solutionrelative:src\\usuarios\\usuarios.domain\\abstractions\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|c:\\repositorios\\netcloud\\sesion02\\src\\usuarios\\usuarios.domain\\events\\usercreatedomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|solutionrelative:src\\usuarios\\usuarios.domain\\events\\usercreatedomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|c:\\repositorios\\netcloud\\sesion02\\src\\usuarios\\usuarios.domain\\usuarios\\doblefactorautenticacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|solutionrelative:src\\usuarios\\usuarios.domain\\usuarios\\doblefactorautenticacion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|c:\\repositorios\\netcloud\\sesion02\\src\\usuarios\\usuarios.domain\\usuarios\\tipodoblefactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|solutionrelative:src\\usuarios\\usuarios.domain\\usuarios\\tipodoblefactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|c:\\repositorios\\netcloud\\sesion02\\src\\usuarios\\usuarios.domain\\shared\\estados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|solutionrelative:src\\usuarios\\usuarios.domain\\shared\\estados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|c:\\repositorios\\netcloud\\sesion02\\src\\usuarios\\usuarios.domain\\usuarios\\nombreusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|solutionrelative:src\\usuarios\\usuarios.domain\\usuarios\\nombreusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|c:\\repositorios\\netcloud\\sesion02\\src\\usuarios\\usuarios.domain\\usuarios\\usuarioerrores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|solutionrelative:src\\usuarios\\usuarios.domain\\usuarios\\usuarioerrores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|c:\\repositorios\\netcloud\\sesion02\\src\\usuarios\\usuarios.domain\\shared\\estados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|solutionrelative:src\\usuarios\\usuarios.domain\\shared\\estados.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|c:\\repositorios\\netcloud\\sesion02\\src\\usuarios\\usuarios.domain\\usuarios\\tipodoblefactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|solutionrelative:src\\usuarios\\usuarios.domain\\usuarios\\tipodoblefactor.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|c:\\repositorios\\netcloud\\sesion02\\src\\usuarios\\usuarios.domain\\usuarios\\nombreusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|solutionrelative:src\\usuarios\\usuarios.domain\\usuarios\\nombreusuarioservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|c:\\repositorios\\netcloud\\sesion02\\src\\usuarios\\usuarios.domain\\usuarios\\nombreusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|solutionrelative:src\\usuarios\\usuarios.domain\\usuarios\\nombreusuario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|c:\\repositorios\\netcloud\\sesion02\\src\\usuarios\\usuarios.domain\\abstractions\\error.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -49,18 +65,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|c:\\repositorios\\netcloud\\sesion02\\src\\usuarios\\usuarios.domain\\usuarios\\correoelectronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|solutionrelative:src\\usuarios\\usuarios.domain\\usuarios\\correoelectronico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|c:\\repositorios\\netcloud\\sesion02\\src\\usuarios\\usuarios.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|solutionrelative:src\\usuarios\\usuarios.domain\\abstractions\\entity.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|c:\\repositorios\\netcloud\\sesion02\\src\\usuarios\\usuarios.domain\\abstractions\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|solutionrelative:src\\usuarios\\usuarios.domain\\abstractions\\result.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|c:\\repositorios\\netcloud\\sesion02\\src\\usuarios\\usuarios.domain\\abstractions\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6CCD2A3B-BD04-4EB9-9CD0-00C6E7D894C8}|src\\Usuarios\\Usuarios.Domain\\Usuarios.Domain.csproj|solutionrelative:src\\usuarios\\usuarios.domain\\abstractions\\idomainevent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -70,7 +74,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 245,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
@@ -82,20 +86,33 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 5,
+              "Title": "UserCreateDomainEvent.cs",
+              "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Events\\UserCreateDomainEvent.cs",
+              "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Domain\\Events\\UserCreateDomainEvent.cs",
+              "ToolTip": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Events\\UserCreateDomainEvent.cs",
+              "RelativeToolTip": "src\\Usuarios\\Usuarios.Domain\\Events\\UserCreateDomainEvent.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-29T19:31:04.302Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
               "Title": "Rol.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Roles\\Rol.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Domain\\Roles\\Rol.cs",
               "ToolTip": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Roles\\Rol.cs",
               "RelativeToolTip": "src\\Usuarios\\Usuarios.Domain\\Roles\\Rol.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-29T17:05:01.758Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 10,
               "Title": "TipoDobleFactor.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Usuarios\\TipoDobleFactor.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Domain\\Usuarios\\TipoDobleFactor.cs",
@@ -108,7 +125,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 7,
               "Title": "Estados.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Shared\\Estados.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Domain\\Shared\\Estados.cs",
@@ -121,7 +138,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 11,
               "Title": "NombreUsuarioService.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Usuarios\\NombreUsuarioService.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Domain\\Usuarios\\NombreUsuarioService.cs",
@@ -134,20 +151,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "Usuario.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Usuarios\\Usuario.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Domain\\Usuarios\\Usuario.cs",
               "ToolTip": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Usuarios\\Usuario.cs",
               "RelativeToolTip": "src\\Usuarios\\Usuarios.Domain\\Usuarios\\Usuario.cs",
-              "ViewState": "AgIAABkAAAAAAAAAAAAwwB4AAAA1AAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAAAgwCoAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-29T02:48:01.819Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 6,
               "Title": "DobleFactorAutenticacion.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Usuarios\\DobleFactorAutenticacion.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Domain\\Usuarios\\DobleFactorAutenticacion.cs",
@@ -160,20 +177,20 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "NombreUsuario.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Usuarios\\NombreUsuario.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Domain\\Usuarios\\NombreUsuario.cs",
               "ToolTip": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Usuarios\\NombreUsuario.cs",
               "RelativeToolTip": "src\\Usuarios\\Usuarios.Domain\\Usuarios\\NombreUsuario.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA0AAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-29T16:28:52.95Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 14,
               "Title": "Direccion.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Usuarios\\Direccion.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Domain\\Usuarios\\Direccion.cs",
@@ -186,7 +203,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 13,
               "Title": "Password.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Usuarios\\Password.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Domain\\Usuarios\\Password.cs",
@@ -199,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 9,
               "Title": "UsuarioErrores.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Usuarios\\UsuarioErrores.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Domain\\Usuarios\\UsuarioErrores.cs",
@@ -212,7 +229,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 15,
               "Title": "CorreoElectronico.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Usuarios\\CorreoElectronico.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Domain\\Usuarios\\CorreoElectronico.cs",
@@ -225,7 +242,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 1,
               "Title": "Result.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Abstractions\\Result.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Domain\\Abstractions\\Result.cs",
@@ -233,11 +250,12 @@
               "RelativeToolTip": "src\\Usuarios\\Usuarios.Domain\\Abstractions\\Result.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T21:46:43.544Z"
+              "WhenOpened": "2025-05-28T21:46:43.544Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "Error.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Abstractions\\Error.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Domain\\Abstractions\\Error.cs",
@@ -250,7 +268,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 4,
               "Title": "IDomainEvent.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Abstractions\\IDomainEvent.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Domain\\Abstractions\\IDomainEvent.cs",
@@ -258,17 +276,18 @@
               "RelativeToolTip": "src\\Usuarios\\Usuarios.Domain\\Abstractions\\IDomainEvent.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-28T19:45:32.058Z"
+              "WhenOpened": "2025-05-28T19:45:32.058Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 3,
               "Title": "Entity.cs",
               "DocumentMoniker": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Abstractions\\Entity.cs",
               "RelativeDocumentMoniker": "src\\Usuarios\\Usuarios.Domain\\Abstractions\\Entity.cs",
               "ToolTip": "C:\\Repositorios\\NetCloud\\Sesion02\\src\\Usuarios\\Usuarios.Domain\\Abstractions\\Entity.cs",
               "RelativeToolTip": "src\\Usuarios\\Usuarios.Domain\\Abstractions\\Entity.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAFAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwA8AAAAQAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-28T19:45:27.09Z",
               "EditorCaption": ""
