@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using MediatR;
+using Usuarios.Domain.Abstractions;
 
-namespace Usuarios.Application.Abstractions.Messaging
+namespace Usuarios.Application.Abstractions.Messaging;
+
+public interface IQuery<TResponse> : IRequest<Result<TResponse>>
 {
-    internal interface IQuery
-    {
-    }
+
 }
