@@ -40,7 +40,7 @@ public class Usuario : Entity
     {
         var nombreUsuario = nombreUsuarioService.GenerarNombreUsuario(nombresPersona, apellidoPaterno);
         var usuario = new Usuario(Guid.NewGuid(), nombresPersona, apellidoPaterno, apellidoMaterno, password, nombreUsuario.Value, fechaNacimiento, correoElectronico, direccion, Estados.Activo, fechaUltimoCambio, rolId);
-        usuario.RaiseDomainEvent(new UserCreateDomainEvent(usuario.Id));
+        usuario.RaiseDomainEvent(new UserCreateDomainEvent(usuario.Id)); //registra el evento de dominio
         return Result.Success(usuario);
     }
 }
