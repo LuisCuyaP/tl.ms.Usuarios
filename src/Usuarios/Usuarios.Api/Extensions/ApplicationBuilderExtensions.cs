@@ -1,5 +1,4 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using Usuarios.Api.Middleware;
 using Usuarios.Infraestructure;
 
 namespace Usuarios.Api.Extensions;
@@ -29,10 +28,4 @@ public static class ApplicationBuilderExtensions
         }
     }
 
-    public static void UseCustomExceptionHandler(
-        this IApplicationBuilder app
-    )
-    {
-        app.UseMiddleware<ExceptionHandlingMiddleware>();
-    }
 }

@@ -1,0 +1,10 @@
+services:
+  usuariosdb:
+    container_name: usuariosdb
+    environment:
+      - POSTGRES_USER=postgres
+      - POSTGRES_PASSWORD=postgres
+      - POSTGRES_DB=Usuariosdb
+    restart: always
+    ports:
+        - "5432:5432"

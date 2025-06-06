@@ -12,9 +12,6 @@ FROM mcr.microsoft.com/dotnet/sdk:9.0 AS build
 ARG BUILD_CONFIGURATION=Release
 WORKDIR /src
 COPY ["src/Usuarios/Usuarios.Api/Usuarios.Api.csproj", "src/Usuarios/Usuarios.Api/"]
-COPY ["src/Usuarios/Usuarios.Application/Usuarios.Application.csproj", "src/Usuarios/Usuarios.Application/"]
-COPY ["src/Usuarios/Usuarios.Domain/Usuarios.Domain.csproj", "src/Usuarios/Usuarios.Domain/"]
-COPY ["src/Usuarios/Usuarios.Infraestructure/Usuarios.Infraestructure.csproj", "src/Usuarios/Usuarios.Infraestructure/"]
 RUN dotnet restore "./src/Usuarios/Usuarios.Api/Usuarios.Api.csproj"
 COPY . .
 WORKDIR "/src/src/Usuarios/Usuarios.Api"
