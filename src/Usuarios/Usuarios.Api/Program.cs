@@ -18,6 +18,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.ApplyMigrations();
+app.SeedData();
 
 //app.UseAuthorization();
 app.MapControllers();
