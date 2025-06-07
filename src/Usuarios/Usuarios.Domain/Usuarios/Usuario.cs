@@ -7,6 +7,9 @@ namespace Usuarios.Domain.Usuarios;
 public class Usuario : Entity
 {
     public readonly List<DobleFactorAutenticacion> autenticacions = new();
+
+    private Usuario() { }
+
     private Usuario(Guid id, string nombresPersona, string apellidoPaterno, string apellidoMaterno, Password password, NombreUsuario nombreUsuario, DateTime fechaNacimiento, CorreoElectronico correoElectronico, Direccion direccion, Estados estado, DateTime fechaUltimoCambio, Guid rolId) : base(id)
     {
         NombresPersona = nombresPersona;

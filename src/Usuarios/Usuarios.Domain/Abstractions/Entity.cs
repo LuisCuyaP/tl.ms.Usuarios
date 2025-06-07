@@ -12,6 +12,7 @@ public abstract class Entity
         }
         Id = id;
     }
+    protected Entity() { }
     public Guid Id { get; set; }
     public void RaiseDomainEvent(IDomainEvent domainEvent)
     {
