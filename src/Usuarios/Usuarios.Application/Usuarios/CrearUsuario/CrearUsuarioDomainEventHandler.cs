@@ -18,6 +18,8 @@ public class CrearUsuarioDomainEventHandler : INotificationHandler<UserCreateDom
 
     public async Task Handle(UserCreateDomainEvent notification, CancellationToken cancellationToken)
     {
+        //4. esta clase se subscribe a la publicacion y envia el email
+
         var usuario = await _usuarioRepository.GetByIdAsync(notification.IdUsuario, cancellationToken);
         if (usuario is null)
         {

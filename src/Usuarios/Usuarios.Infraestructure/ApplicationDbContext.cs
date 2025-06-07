@@ -47,6 +47,7 @@ public class ApplicationDbContext : DbContext, IUnitOfWork
             return domainEvents;
         }).ToList();
 
+        //3. como domainEvent tiene a CrearUsuarioDomainEventHandler lo manda a esta clase con el publish
         foreach (var domainEvent in domainEntities)
         {
             await _publisher.Publish(domainEvent, CancellationToken.None);

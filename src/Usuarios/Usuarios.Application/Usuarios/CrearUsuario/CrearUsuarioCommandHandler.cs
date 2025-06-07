@@ -37,6 +37,7 @@ internal sealed class CrearUsuarioCommandHandler : ICommandHandler<CrearUsuarioC
             return Result.Failure<Guid>(RolErrores.NoEncontrado);
         }
 
+        //aqui en Create dentro de Usuario.Domain se 1. registra el evento de dominio
         var usuario = Usuario.Create(
             request.NombresPersona,
             request.ApellidoPaterno,
@@ -57,7 +58,7 @@ internal sealed class CrearUsuarioCommandHandler : ICommandHandler<CrearUsuarioC
         );
 
         _usuarioRepository.Add(usuario.Value);
-        await _unitOfWork.SaveChangesAsync(cancellationToken);
+        await _unitOfWork.SaveChangesAsync(cancellationToken); //aqui se 2. publica el evento de dominio si el register es exitoso en ApplicationDbContext
 
         return Result.Success(usuario.Value.Id);
 
