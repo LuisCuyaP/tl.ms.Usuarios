@@ -20,6 +20,8 @@ if (app.Environment.IsDevelopment())
 app.ApplyMigrations();
 app.SeedData();
 
+app.UseCustomExceptionHandler();
+
 //app.UseAuthorization();
 app.MapControllers();
 
